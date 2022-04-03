@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Angela Lazova.
+- 🌱 I’m currently learning python and data science for neuroscience.
+- 💞️ I’m looking to collaborate on research projects in decision-making, gut health, and brain function. 
